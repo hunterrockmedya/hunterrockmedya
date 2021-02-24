@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hakkımda / About Me</h1>
-  <p>Merhaba, </p>
+  <p>Merhaba, Ben HunterRock. / Hi, İ'm HunterRock
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hunterrockmedya&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
   <br><br>
