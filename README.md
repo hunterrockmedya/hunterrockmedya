@@ -1,4 +1,5 @@
-  <h1>Hakkımda / About Me</h1>
+  ![Profile Views](https://komarev.com/ghpvc/?username=hunterrockmedya)
+  <h1>Hakkımda / About Me</h1> 
 	
 	Merhaba, Ben Geliştiriciyim. Javascript, HTML, Python, PHP Programlama Dillerine Hakimim.
 	Hi, I am a Developer. I know Javascript, HTML, Python, PHP programming languages.
