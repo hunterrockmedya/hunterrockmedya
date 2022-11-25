@@ -1,4 +1,3 @@
-  ![Profile Views](https://komarev.com/ghpvc/?username=hunterrockmedya)
   <h1>Hakkımda / About Me</h1> 
 	
 	Merhaba, Ben Geliştiriciyim. Javascript, HTML, Python, PHP Programlama Dillerine Hakimim.
@@ -36,3 +35,5 @@
   <a href="https://hunterrockmedya.net" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a
   <a href="mailto:hunterrockmedya@gmail.com" target="_blank"><img src="https://shields.io/badge/My Mail-111111.svg?&style=for-the-badge&logo=gmail"></a
 </div>
+	
+![Profile Views](https://komarev.com/ghpvc/?username=hunterrockmedya)
