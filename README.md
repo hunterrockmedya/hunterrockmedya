@@ -3,7 +3,8 @@
 	Merhaba, Ben Geliştiriciyim. Javascript, HTML, Python, PHP Programlama Dillerine Hakimim.
 	Hi, I am a Developer. I know Javascript, HTML, Python, PHP programming languages.
 	
-	
+---
+
 <h1>İstatistikler / Statistics</h1>
 <p align="center">
   <a href="https://github.com/hunterrockmedya">
@@ -11,7 +12,9 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hunterrockmedya&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
   </a>
 </p>
-    
+
+---
+	
    <h1>Diller Ve Araçlar / Languages and Tools</h1>
   <br>
   <p align="center">
@@ -26,7 +29,9 @@
   <img align="left" alt="php" width="26px" src="https://cdn.discordapp.com/emojis/818512225840791585.png?v=1" /> <br />
   <br>
   </p>
-  
+	  
+  ---
+	  
   <h1>İletişim / Contact</h1>
   <a href="https://discord.com/users/627367745591312394" target="_blank"><img src="https://shields.io/badge/HunterRock-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/hunterrockmedya" target="_blank"><img src="https://shields.io/badge/HunterRock-111111.svg?&style=for-the-badge&logo=github"></a>
@@ -35,5 +40,10 @@
   <a href="https://hunterrockmedya.net" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a
   <a href="mailto:hunterrockmedya@gmail.com" target="_blank"><img src="https://shields.io/badge/My Mail-111111.svg?&style=for-the-badge&logo=gmail"></a
 </div>
-	
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=hunterrockmedya)
+
+> “Kod bir sanattır; onu yazan ellerde hayat bulur.”  
+> “Code is an art; it comes alive in the hands that write it.”
