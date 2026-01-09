@@ -8,8 +8,7 @@
 <h1>İstatistikler / Statistics</h1>
 <p align="center">
   <a href="https://github.com/hunterrockmedya">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterrockmedya&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=hunterrockmedya&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
+<img height="150em" src="https://github-readme-stats.zcy.dev/api?username=hunterrockmedya&layout=compact&theme=material-palenight&langs_count=12" /><br>
   </a>
 </p>
 
