@@ -37,7 +37,7 @@
   <a href="https://github.com/hunterrockmedya" target="_blank"><img src="https://shields.io/badge/HunterRock-111111.svg?&style=for-the-badge&logo=github"></a>
   <a href="https://www.npmjs.com/hunterrock" target="_blank"><img src="https://shields.io/badge/HunterRock-111111.svg?&style=for-the-badge&logo=npm"></a>
   <a href="https://discord.gg/BnwGGws" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-  <a href="https://hunterrockmedya.net" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a
+  <a href="https://hunterrock.me" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a
   <a href="mailto:hunterrockmedya@gmail.com" target="_blank"><img src="https://shields.io/badge/My Mail-111111.svg?&style=for-the-badge&logo=gmail"></a
 </div>
 
